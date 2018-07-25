@@ -1,9 +1,9 @@
 {
-  "name": "thaismartcardreader.js",
+  "name": "@dogrocker/thaismartcardreader",
   "version": "0.2.3",
-  "description": "Read data from thai smartcard via NodeJS",
+  "description": "Fork version, Read data from thai smartcard via NodeJS",
   "main": "src/index.js",
-  "repository": "https://github.com/sgnsys3/thaismartcardreader",
+  "repository": "https://github.com/dogrocker/thaismartcardreader.js",
   "author": "Pureewat Kaewpoy",
   "license": "MIT",
   "dependencies": {
