@@ -12,7 +12,7 @@
   },
   "keywords": [
     "thai",
-    "smartcard",
+    "smartcard": "git+https://github.com/siteslave/smartcard.git",
     "reader",
     "citizenid",
     "thailand"
